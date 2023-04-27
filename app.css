@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+
+.roboto {
+  font-family: 'Roboto';
+}
+
+h3 {
+  font-family: 'Roboto' ;
+  font-weight: 500;
+  font-size: 28px;
+  color: #be123c;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: 'Roboto' ;
+  font-weight: 500;
+  color: #6b7280;
+}
